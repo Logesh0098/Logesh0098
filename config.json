@@ -1,8 +1,8 @@
 {
-	"ip":"minecraft10092022.aternos.me",
-	"port": 45210,
-	"name": "loki",
-	"auto-night-skip":"false",
+	"ip":"verse2165.aternos.me",
+	"port": 55912,
+	"name": "loking",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register logesh0098 logesh0098",
 	"login-cmd":"/login logesh0098"
